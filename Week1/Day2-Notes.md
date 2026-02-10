@@ -127,11 +127,9 @@ I realized that SOC Analysts are like cyber guardians - they protect organizatio
 **I'm building the foundation today.**
 
 ## 💪 Challenges Faced
-[Be honest - what was difficult today?]
 - Cisco course has a lot of reading, needed to stay focused.
 
 ## ✅ What Went Well
-[What was easy or enjoyable?]
 - TryHackMe room was engaging and interactive
 
 ## 🎯 Tomorrow's Goals (Day 3)
