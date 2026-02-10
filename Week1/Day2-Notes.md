@@ -59,6 +59,7 @@
 **Why Cybersecurity Matters:**
 - Cybersecurity protects individuals, organizations, and governments from digital attacks by safeguarding networked systems and data from unauthorized access or harm.
 - It is essential at a personal level to secure your identity and devices, while for businesses and nations, it preserves reputation, operations, economic stability, and national security.
+  
 **Types of Threats:**
 1. Malicious cyber attacks by intentional actors, such as cybercriminals seeking financial gain or disruption through methods like viruses, worms, and Trojans.
 2. Accidental human actions. These occur unintentionally through errors like clicking phishing links, misconfiguring systems, or sharing sensitive data, leading to vulnerabilities that attackers can exploit.
@@ -130,11 +131,11 @@ I realized that SOC Analysts are like cyber guardians - they protect organizatio
 
 ## 💪 Challenges Faced
 [Be honest - what was difficult today?]
-- "Cisco course has a lot of reading, needed to stay focused"
+- Cisco course has a lot of reading, needed to stay focused.
 
 ## ✅ What Went Well
 [What was easy or enjoyable?]
-- "TryHackMe room was engaging and interactive"
+- TryHackMe room was engaging and interactive
 
 ## 🎯 Tomorrow's Goals (Day 3)
 
