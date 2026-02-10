@@ -25,20 +25,17 @@
 - Investigates suspicious activity
 - Uses SIEM tools
 - Escalates serious incidents
-- **Salary Range:** 8-15 LPA (freshers)
 - **This is my target role!**
 
 **2. Incident Response Analyst**
 - Responds to security incidents
 - Performs forensic analysis
 - Contains and remediates threats
-- **Salary Range:** 12-18 LPA
 
 **3. Threat Hunter**
 - Proactively searches for threats
 - Uses advanced analytics
 - Hypothesis-based investigations
-- **Salary Range:** 15-25 LPA (needs experience)
 
 ### What is a SOC?
 - **Security Operations Center**
