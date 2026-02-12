@@ -17,21 +17,14 @@
 ### 1. Pyramid of Pain
 
 **The 6 Levels (Bottom → Top):**
-                /\
-               /  \
-              / TTPs \
-             /--------\
-            /  Tools   \
-           /------------\
-          / Network/Host \
-         /   Artifacts    \
-        /------------------\
-       /      Domains       \
-      /----------------------\
-     /     IP Addresses       \
-    /--------------------------\
-   /       Hash Values          \
-  /------------------------------\
+1. Hash Values  ← Least painful for attacker  
+2. IP Addresses  
+3. Domain Names  
+4. Network/Host Artifacts  
+5. Tools  
+6. TTPs (Tactics, Techniques, Procedures)  ← Most painful for attacker  
+
+---
         
 **Key Insight:**  
 Focus on **TTP-based detection** (top of pyramid), not just signatures (bottom). TTPs are most painful for attackers to change.
@@ -81,15 +74,13 @@ Focus on **TTP-based detection** (top of pyramid), not just signatures (bottom).
 ### 3. Diamond Model
 
 **The 4 Points:**
-             Adversary
-                /\
-               /  \
-              /    \
-     Capability ---- Infrastructure
-              \    /
-               \  /
-                \/
-              Victim
+1. Adversary  
+2. Capability  
+3. Infrastructure  
+4. Victim  
+
+---
+
 
 **Why It Matters:**
 - **Pivoting:** Known infrastructure → Find other victims
