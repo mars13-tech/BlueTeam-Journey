@@ -252,7 +252,6 @@ SOC Analyst job descriptions ALWAYS mention:
 
 **Days Completed:** 3/180 (1.67%)  
 **Streak:** 3 days 🔥  
-**Feeling:** [Your feeling - Confident/Energized/Focused]
 
 **Today's Big Win:**
 "I now understand how attacks flow from start to finish. More importantly, I know WHERE and HOW to defend at each stage. This is exactly what SOC analysts do - detect attacks across the kill chain. I'm becoming a defender!" 🛡️
