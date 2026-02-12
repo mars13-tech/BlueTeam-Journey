@@ -38,7 +38,9 @@ Land a SOC Analyst role at 15+ LPA and build foundation for cybersecurity busine
 
 **TryHackMe Rooms:** 5  
 **Certification Earned:** 0 (Cisco 50% complete) 
+
 **Projects Completed:** 0
+
 **GitHub Commits:** 10  
  
 
