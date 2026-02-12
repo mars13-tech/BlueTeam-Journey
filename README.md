@@ -20,12 +20,14 @@ Land a SOC Analyst role at 15+ LPA and build foundation for cybersecurity busine
 - Security Automation
   
 ## 📊 Progress Tracker
-- **Day 1:** ✅ Setup complete, journey begins!
-- **Day 2:** ✅ Defensive Security & Blue Team foundations
-- **Certifications Earned:** 0 (Cisco 20% complete)
+- **Day 1:** ✅ Setup & Introduction
+- **Day 2:** ✅ Defensive Security foundations
+- **Day 3:** ✅ Cyber Kill Chain & Attack Frameworks
+- **Certifications Earned:** 0 (Cisco 40% complete)
 - **Projects Completed:** 0
-- **TryHackMe Rooms:** 2
-- **GitHub Commits:** 4
+- **TryHackMe Rooms:** 4
+- **GitHub Commits:** 6
+- **Frameworks Mastered:** Cyber Kill Chain, Unified Kill Chain, MITRE ATT&CK (basics)
 
 ## 🔗 Connect With Me
 - LinkedIn: [Will update]
