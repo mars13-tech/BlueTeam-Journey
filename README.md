@@ -39,4 +39,4 @@ All my learning, notes, and projects will be documented here.
 Follow along on my journey! ⚡
 
 ---
-**Last Updated:** Day 2 - February 10, 2026
+**Last Updated:** Day 3 - February 11, 2026
